@@ -1,0 +1,5 @@
+BEST PRACTICES:-
+1. Always follow server-client Architecture.
+2. Always respect all http methods.
+//ppl generally update, delete, create things all by post but why if they have specified methods for them, they use routes POST /update, POST /createUser, GET /getuser if you have methods you don't need routes and use method of that particular operation.
+ 
