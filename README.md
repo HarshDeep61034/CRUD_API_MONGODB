@@ -1,4 +1,4 @@
-# REST API Project README
+# CRUD API Project README
 
 ## Project Overview
 
